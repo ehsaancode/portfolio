@@ -224,6 +224,9 @@ section.profile .right ul.socials li:nth-child(3) a{
 section.profile .right ul.socials li:nth-child(4) a{
     background: var(--secondary);
 }
+section.profile .right ul.socials li:nth-child(5) a{
+    background: var(--dark-blue);
+}
 
 .section_heading{
     font-size: 16px;
